@@ -48,6 +48,7 @@ public class Example {
 		
 		
 		Scenario scenario = builder.build();
+		//System.out.print("haha");
 		
 		final String MAP_DIR = "../core/files/maps/";
 
